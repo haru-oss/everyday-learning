@@ -5,7 +5,7 @@
 🧪 前提（あなたの現在の初期値）
 
 
-```
+```tsx
 const [products, setProducts] = useState([
   { productName: "", quantity: 1 }
 ]);
